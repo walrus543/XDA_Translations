@@ -34,7 +34,7 @@ Developers to submit their apps and request modifications to existing apps. Tran
 There are 3 branches:  
 * `new_apps`: new apps which require many translations in many languages.  
 * `ongoing_translations`: apps where strings are translated (almost) everywhere. Improvements are appreciated.  
-* `discontinued`: don't wast your time. Those apps are no longer developed.  
+* `discontinued`: don't waste your time. Those apps are no longer developed.  
 
 ***
 
