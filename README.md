@@ -1,7 +1,7 @@
 # XDA Translators
 Project to manage app translations between devs and XDA translators  
 
-![xda_translators_banner](_banner.png)
+![xda_translators_banner](..\master\_banner.png)
 
 # Template to submit new apps
 
