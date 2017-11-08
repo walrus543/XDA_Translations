@@ -28,6 +28,16 @@ Tell him the language(s) you can translate apps into. Don't hesitate if there is
 
 ***
 
+## How does this repository work?
+Everybody create pull requests.  
+Developers to submit their apps and request modifications to existing apps. Translators to tell devs that one or more language(s) are completed.  
+There are 3 branches:  
+* `new_apps`: new apps which require many translations in many languages.  
+* `ongoing_translations`: apps where strings are translated (almost) everywhere. Improvements are appreciated.  
+* `discontinued`: don't wastime your time. Those apps are no longer developed.  
+
+***
+
 ## Let’s get started
 Read [our wiki](https://github.com/Primokorn/XDA_Translations/wiki) to find all relevant information for developers and translators.
 Thank you!
