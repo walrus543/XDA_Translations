@@ -1,4 +1,4 @@
-# XDA Translators
+# XDA Translations
 Project to manage app translations between devs and XDA translators  
 
 ## Links
@@ -29,5 +29,5 @@ Tell him the language(s) you can translate apps into. Don't hesitate if there is
 ***
 
 ## Let’s get started
-Read [our wiki](https://github.com/Primokorn/XDA_Translators/wiki) to find all relevant information for developers and translators.
+Read [our wiki](https://github.com/Primokorn/XDA_Translations/wiki) to find all relevant information for developers and translators.
 Thank you!
