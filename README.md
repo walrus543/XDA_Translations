@@ -25,3 +25,9 @@ If you app developers want to thank your translators, you can place their credit
 Tell him the language(s) you can translate apps into. Don't hesitate if there is already a translator for your language, it's better to have more than one for each language.
 2. Verify his entry and subscribe to the XDA thread and this Github repository to get the latest news and app translate requests.
 3. If there is a request for translating an app, do it. If you think you can improve an existing translation, dive into its discussion.  
+
+***
+
+## Let’s get started
+Read [our wiki](https://github.com/Primokorn/XDA_Translators/wiki) to find all relevant information for developers and translators.
+Thank you!
