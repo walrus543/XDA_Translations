@@ -1,4 +1,4 @@
-# XDA Translators
+# XDA Translations
 Project to manage app translations between devs and XDA translators  
 
 ![xda_translators_banner](../master/_banner.png)
