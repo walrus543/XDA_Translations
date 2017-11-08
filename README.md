@@ -40,4 +40,6 @@ There are 3 branches:
 
 ## Let’s get started
 Read [our wiki](https://github.com/Primokorn/XDA_Translations/wiki) to find all relevant information for developers and translators.
-Thank you!
+Thank you!  
+
+Open an [issue](https://github.com/Primokorn/XDA_Translations/issues) if something is not working as expected, if you have questions or suggestions...
