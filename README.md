@@ -16,7 +16,7 @@ Would you like to get your apps translated into several languages by humans and 
 3. On this point, after the translation, please be kind and write something in the XDA thread like "well done, we created the perfect app".
 
 * **Credit Names**:  
-If you app developers want to thank your translators, you can place their credit names (if available) somewhere in your app, for example in `About -> Credits -> Translators`. See the credit names [index](https://forum.xda-developers.com/showpost.php?p=35963995&postcount=2).
+If you app developers want to thank your translators, you can place their credit names (if available) somewhere in your app, for example in `About -> Credits -> Translators`. See the credit names in this [index](https://forum.xda-developers.com/showpost.php?p=35963995&postcount=2).
 
 ***
 
