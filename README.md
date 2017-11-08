@@ -1,27 +1,52 @@
 # XDA Translators
 Project to manage app translations between devs and XDA translators  
 
-## Links
-* [Official XDA thread](https://forum.xda-developers.com/showthread.php?t=2069390)  
-* [XDA Developers forum](https://forum.xda-developers.com)  
-* [XDA Developers website](https://www.xda-developers.com)
+![xda_translators_banner](_banner.png)
 
-![xda_translators_banner](banner.png)
+# Template to submit new apps
 
-## Developers: You need an app translation
-Would you like to get your apps translated into several languages by humans and for free?
+\<!-- Provide a public accessible link, where the translation can be discussed and improved. (paid platforms are not allowed) -->  
+\### Where are the strings to translate:  
 
-1. Create a **Pull Request** to submit your app. Please follow the guidelines.
-2. Please, save resources and only ask for translation if your app is *almost* finished, you add features or make a major update. Do not ask, if your app still is changing the labeling very often.
-3. On this point, after the translation, please be kind and write something in the XDA thread like "well done, we created the perfect app".
+\### Link(s) to download the app:  
 
-* **Credit Names**:  
-If you app developers want to thank your translators, you can place their credit names (if available) somewhere in your app, for example in `About -> Credits -> Translators`. See the credit names behind the name of the XDA members in this [index](https://forum.xda-developers.com/showpost.php?p=35963995&postcount=2).
+\<!-- Optional -->  
+\### XDA Thread:  
 
-***
+\### Number of strings: 
 
-## Translators: Developers need you.
-1. Be part of the project by contacting [gaich](https://forum.xda-developers.com/member.php?u=4563466) on XDA. Send him a PM and he will add you to this index of **recognized translators**. Thank you!
-Tell him the language(s) you can translate apps into. Don't hesitate if there is already a translator for your language, it's better to have more than one for each language.
-2. Verify his entry and subscribe to the XDA thread and this Github repository to get the latest news and app translate requests.
-3. If there is a request for translating an app, do it. If you think you can improve an existing translation, dive into its discussion.  
+\<!-- Provide an email address, your account on social networks...-->  
+\### Contact me:  
+
+\<!-- Tell us if you are the main developer, community manager, designer,...-->  
+\### My job:  
+
+\<!-- If you only want to receive translations for untranslated strings only -->  
+\### Necessary to check the existing translations? (Yes/No):  
+
+\<!-- Optional -->  
+\### Which Languages are needed the most?  
+\*  
+\*  
+\*  
+
+\### Languages already completed:  
+\*  
+\*  
+\*  
+
+\<!-- Credits are always appreciated -->  
+\### Will translators be mentioned within the app?  
+
+\<!-- Some developers offer redeem codes to thank translators and/or to help them to translate strings that are specific to PRO features. Please explain how to request one -->  
+\### Redeem code for translators (Yes/No):  
+
+\***
+
+\## For XDA Translators ONLY  
+Completed languages:  
+\<!-- Add your XDA username next to your language(s) -->  
+\*  
+\*  
+\*  
+\*  
