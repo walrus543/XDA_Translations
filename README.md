@@ -29,7 +29,7 @@ Tell him the language(s) you can translate apps into. Don't hesitate if there is
 ***
 
 ## How does this repository work?
-Everybody create pull requests.  
+Everybody creates pull requests.  
 Developers to submit their apps and request modifications to existing apps. Translators to tell devs that one or more language(s) are completed.  
 There are 3 branches:  
 * `new_apps`: new apps which require many translations in many languages.  
