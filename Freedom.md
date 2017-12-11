@@ -1,3 +1,6 @@
+<!-- Name of your app -->
+### Name: Freedom
+
 <!-- Provide a public accessible link, where the translation can be discussed and improved. (paid platforms are not allowed) -->
 ### Where are the strings to translate:
 Strings: https://tikamori.oneskyapp.com/admin/project/dashboard/project/290597  
