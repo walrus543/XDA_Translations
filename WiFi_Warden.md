@@ -1,3 +1,6 @@
+<!-- Name of your app -->
+### Name: WiFi Warden
+
 <!-- Provide a public accessible link, where the translation can be discussed and improved. (paid platforms are not allowed) -->
 ### Where are the strings to translate:
 Strings: https://xtiapps.oneskyapp.com/collaboration/project/99177  
