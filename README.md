@@ -6,7 +6,7 @@ Project to manage app translations between devs and XDA translators
 # Template to submit new apps
 
 \<!-- Name of your app -->  
-Name:   
+\### Name:   
 
 \<!-- Provide a public accessible link, where the translation can be discussed and improved. (paid platforms are not allowed) -->  
 \### Where are the strings to translate:  
