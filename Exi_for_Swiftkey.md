@@ -1,3 +1,6 @@
+<!-- Name of your app -->
+### Name: Exi for Swiftkey
+
 <!-- Provide a public accessible link, where the translation can be discussed and improved. (paid platforms are not allowed) -->
 ### Where are the strings to translate:
 https://crowdin.com/project/exi-for-swiftkey  
