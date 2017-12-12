@@ -31,12 +31,11 @@ No
 * German
 * Italian
 * Portugese (BR)
-* Russian
 * Spanish
 
 ### Languages already completed:
 * French
-*
+* Russian
 *
 
 <!-- Credits are always appreciated -->
