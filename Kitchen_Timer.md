@@ -60,7 +60,8 @@ features. Please explain how to request one -->
 ## For XDA Translators ONLY
 Completed languages:
 <!-- Add your XDA username next to your language(s) -->
-*
-*
-*
-*
+* Czech (novas78)
+* French (Ilko)
+* Slovak (kubalav)
+* Russian (gaich)
+* Brazilian Portuguese (Taivotat2)
