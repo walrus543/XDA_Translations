@@ -27,14 +27,24 @@ Email: xtiapps@outlook.com
 
 <!-- Optional -->
 ### Which Languages are needed the most?
-*
-*
-*
+* Russian
+* Spanish
+* Portuguese (Brazil)
+* French
+* German
+* Turkish
+* Vietnamese
+* Indonesian
+* Hindi
+* Portuguese (Portugal)
+* Arabic
+* Ukrainian
 
 ### Languages already completed:
-*
-*
-*
+* German
+* French
+* Russian
+* 
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -50,5 +60,5 @@ Completed languages:
 <!-- Add your XDA username next to your language(s) -->
 * French (Primokorn)
 * German (noc.jfcbs)
-*
+* Russian (gaich)
 *
