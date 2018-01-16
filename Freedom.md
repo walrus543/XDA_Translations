@@ -11,24 +11,26 @@ https://play.google.com/store/apps/details?id=com.tikamori.freedom
 
 <!-- Optional -->
 ### XDA Thread:
+https://forum.xda-developers.com/showpost.php?p=74743655&postcount=3412
 
-### Number of strings:
+### Number of strings: 840 words (both description and strings)
 
 <!-- Provide an email address, your account on social networks...-->
 ### Contact me:
 https://forum.xda-developers.com/member.php?u=6806057  
 
 <!-- Tell us if you are the main developer, community manager, designer,...-->
-### My job:
+### My job: Main developer
 
 <!-- If you only want to receive translations for untranslated strings only -->
-### Necessary to check the existing translations? (Yes/No):
+### Necessary to check the existing translations? (Yes/No): No
 
 <!-- Optional -->
 ### Which Languages are needed the most?
-*
-*
-*
+* German
+* French
+* Spanish
+* 
 
 ### Languages already completed:
 *
@@ -37,6 +39,7 @@ https://forum.xda-developers.com/member.php?u=6806057
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
+The name of everyone who helps for translating will be included in the credit section in the app.
 
 <!-- Some developers offer redeem codes to thank translators and/or to help them to translate strings that are specific to PRO features. Please explain how to request one -->
 ### Redeem code for translators (Yes/No):
