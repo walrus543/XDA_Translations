@@ -44,7 +44,7 @@ Email: xtiapps@outlook.com
 * German
 * French
 * Russian
-* 
+* Croatian
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -61,4 +61,4 @@ Completed languages:
 * French (Primokorn)
 * German (noc.jfcbs)
 * Russian (gaich)
-*
+* Croatian (dugi9991)
