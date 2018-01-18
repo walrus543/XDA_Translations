@@ -30,26 +30,22 @@ https://forum.xda-developers.com/member.php?u=6806057
 * German
 * French
 * Spanish
-* 
 
 ### Languages already completed:
-*
-*
-*
+* Czech
+* Croatian
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
 The name of everyone who helps for translating will be included in the credit section in the app.
 
 <!-- Some developers offer redeem codes to thank translators and/or to help them to translate strings that are specific to PRO features. Please explain how to request one -->
-### Redeem code for translators (Yes/No):
+### Redeem code for translators (Yes/No): Yes, contact the Dev after the translations are done.
 
 ***
 
 ## For XDA Translators ONLY
 Completed languages:
 <!-- Add your XDA username next to your language(s) -->
-*
-*
-*
-*
+* Czech (novas78)
+* Croatian (dugi9991)
