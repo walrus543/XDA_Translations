@@ -25,6 +25,7 @@ Main developer
 
 <!-- If you only want to receive translations for untranslated strings only -->
 ### Necessary to check the existing translations? (Yes/No):
+No
 
 <!-- Optional -->
 ### Which Languages are needed the most?
@@ -37,6 +38,9 @@ Main developer
 * German
 * Polish (Poland)
 * Russian
+* Czech
+* Italian
+* Slovak
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
