@@ -29,9 +29,14 @@ No
 
 <!-- Optional -->
 ### Which Languages are needed the most?
-*
-*
-*
+* French
+* German
+* Polish (Poland)
+* Russian
+* Czech
+* Italian
+* Slovak (Slovakia)
+* Portuguese (Brazil)
 
 ### Languages already completed:
 * French
@@ -40,7 +45,9 @@ No
 * Russian
 * Czech
 * Italian
-* Slovak
+* Slovak (Slovakia)
+* Portuguese (Brazil)
+* Croatian
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -53,7 +60,12 @@ No
 ## For XDA Translators ONLY
 Completed languages:
 <!-- Add your XDA username next to your language(s) -->
-*
-*
-*
-*
+* German (noc_jfcbs)
+* Czech (novas78)
+* Slovak (Slovakia) (pyler)
+* French (Primokorn)
+* Italian (xda_dentex)
+* Polish (Poland) (Chamelleon)
+* Russian (gaich)
+* Portuguese (Brazil) (sakej,brenosnt)
+* Croatian (dugi9991)
