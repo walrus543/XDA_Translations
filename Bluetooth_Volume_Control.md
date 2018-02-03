@@ -18,9 +18,9 @@ https://forum.xda-developers.com/android/apps-games/app-bluetooth-volume-control
 
 <!-- Provide an email address, your account on social networks...-->
 ### Contact me:
-https://forum.xda-developers.com/member.php?u=608746
-https://plus.google.com/116634499773478773276
-https://twitter.com/d4rken
+https://forum.xda-developers.com/member.php?u=608746  
+https://plus.google.com/116634499773478773276 
+https://twitter.com/d4rken  
 https://www.darken.eu/
 
 <!-- Tell us if you are the main developer, community manager, designer,...-->
@@ -66,11 +66,13 @@ No.
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
+Yes.
 
 <!-- Some developers offer redeem codes to thank translators 
 and/or to help them to translate strings that are specific to PRO 
 features. Please explain how to request one -->
 ### Redeem code for translators (Yes/No):
+If any XDA translator woud like a promo code, just mail/pm me.
 
 ***
 
