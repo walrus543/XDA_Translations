@@ -23,23 +23,30 @@ https://forum.xda-developers.com/member.php?u=6797900
 
 <!-- Tell us if you are the main developer, community manager, designer,...-->
 ### My job:
+Main developer
 
 <!-- If you only want to receive translations for untranslated strings only -->
 ### Necessary to check the existing translations? (Yes/No):
+No.
 
 <!-- Optional -->
 ### Which Languages are needed the most?
-*
-*
-*
+* French
+* Polish (Poland)
+* Portuguese (Brazil)
+* Russian
+* Croatian
 
 ### Languages already completed:
 * French
-*
-*
+* Polish (Poland)
+* Portuguese (Brazil)
+* Russian
+* Croatian
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
+No.
 
 <!-- Some developers offer redeem codes to thank translators and/or to help them to translate strings that are specific to PRO features. Please explain how to request one -->
 ### Redeem code for translators (Yes/No):
@@ -49,7 +56,7 @@ This is not a paid app.
 ## For XDA Translators ONLY
 Completed languages:
 <!-- Add your XDA username next to your language(s) -->
-*
-*
-*
+* French (Primokorn)
+* Croatian (dugi9991)
+* Russian (gaich)
 *
