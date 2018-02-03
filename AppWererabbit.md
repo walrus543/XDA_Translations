@@ -51,9 +51,11 @@ No
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
+Yes.
 
 <!-- Some developers offer redeem codes to thank translators and/or to help them to translate strings that are specific to PRO features. Please explain how to request one -->
 ### Redeem code for translators (Yes/No):
+Yes, contact the Developer personally, via mail or PM on XDA for further instructions.
 
 ***
 
