@@ -49,6 +49,9 @@ No.
 * Russian
 * Brazilian Portuguese
 * Croatian
+* German
+* Italian
+* Vietnamese
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
