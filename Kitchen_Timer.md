@@ -14,16 +14,19 @@ https://play.google.com/store/apps/details?id=com.bhanu.kitchentimer
 https://forum.xda-developers.com/android/apps-games/app-set-time-reminder-to-kitchen-t3722935
 
 ### Number of strings:
+53
 
 <!-- Provide an email address, your account on social networks...-->
 ### Contact me:
 XDA account: https://forum.xda-developers.com/member.php?u=5175590
 
 <!-- Tell us if you are the main developer, community manager, designer,...-->
-### My job: Main developer
+### My job: 
+Main developer
 
 <!-- If you only want to receive translations for untranslated strings only -->
 ### Necessary to check the existing translations? (Yes/No):
+No.
 
 <!-- Optional -->
 ### Which Languages are needed the most?
@@ -45,6 +48,7 @@ XDA account: https://forum.xda-developers.com/member.php?u=5175590
 * Slovak
 * Russian
 * Brazilian Portuguese
+* Croatian
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -65,3 +69,4 @@ Completed languages:
 * Slovak (kubalav)
 * Russian (gaich)
 * Brazilian Portuguese (Taivotat2)
+* Croatian (dugi9991)
