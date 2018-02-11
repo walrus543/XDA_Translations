@@ -3,9 +3,11 @@ Project to manage app translations between devs and XDA translators
 
 ![xda_translators_banner](../master/_banner.png)
 
+<<<<<<< new_apps
 # Template to submit new apps
 =======
 ![xda_translators_banner](https://github.com/Primokorn/XDA_Translations/blob/master/_banner.png?raw=true)
+>>>>>>> master
 
 
 \<!-- Name of your app -->  
@@ -43,6 +45,7 @@ Project to manage app translations between devs and XDA translators
 \*  
 \*  
 
+<<<<<<< new_apps
 \### Languages already completed:  
 \*  
 \*  
@@ -50,6 +53,7 @@ Project to manage app translations between devs and XDA translators
 =======
 * **Credit Names**:  
 If you app developers want to thank your translators, you can place their credit names (if available) somewhere in your app, for example in `About -> Credits -> Translators`. See the credit names in this [index](https://forum.xda-developers.com/showpost.php?p=35963995&postcount=2).
+>>>>>>> master
 
 
 \<!-- Credits are always appreciated -->  
@@ -63,6 +67,7 @@ If you app developers want to thank your translators, you can place their credit
 \***
 
 
+<<<<<<< new_apps
 \## For XDA Translators ONLY  
 Completed languages:  
 \<!-- Add your XDA username next to your language(s) -->  
@@ -94,4 +99,4 @@ Read [our wiki](https://github.com/Primokorn/XDA_Translations/wiki) to find all 
 Thank you!  
 
 Open an [issue](https://github.com/Primokorn/XDA_Translations/issues) if something is not working as expected, if you have questions or suggestions...
-
+>>>>>>> master
