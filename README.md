@@ -6,7 +6,7 @@ Project to manage app translations between devs and XDA translators
 * [XDA Developers forum](https://forum.xda-developers.com)  
 * [XDA Developers website](https://www.xda-developers.com)
 
-![xda_translators_banner](https://github.com/Primokorn/XDA_Translations/blob/master/_banner.png?raw=true)
+![xda_translators_banner](https://github.com/Primokorn/XDA_Translations/blob/master/banner.png?raw=true)
 
 ## Developers: You need an app translation
 Would you like to get your apps translated into several languages by humans and for free?
