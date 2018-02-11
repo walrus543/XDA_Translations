@@ -1,5 +1,9 @@
-# Template to submit new apps
+# XDA Translations
+Project to manage app translations between devs and XDA translators  
 
+![xda_translators_banner](../master/_banner.png)
+
+# Template to submit new apps
 
 \<!-- Name of your app -->  
 \### Name:   
@@ -36,8 +40,26 @@
 \*  
 \*  
 
-
 \### Languages already completed:  
 \*  
 \*  
 \*  
+
+\<!-- Credits are always appreciated -->  
+\### Will translators be mentioned within the app?  
+  
+  
+\<!-- Some developers offer redeem codes to thank translators and/or to help them to translate strings that are specific to PRO features. Please explain how to request one -->  
+\### Redeem code for translators (Yes/No):  
+  
+  
+\***
+
+\## For XDA Translators ONLY  
+Completed languages:  
+\<!-- Add your XDA username next to your language(s) -->  
+\*  
+\*  
+\*  
+\*  
+
