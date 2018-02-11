@@ -1,7 +1,4 @@
 # Template to submit new apps
-=======
-![xda_translators_banner](https://github.com/Primokorn/XDA_Translations/blob/master/_banner.png?raw=true)
-
 
 
 \<!-- Name of your app -->  
