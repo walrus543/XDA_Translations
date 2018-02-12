@@ -62,3 +62,4 @@ Completed languages:
 * Italian
 * Polish (emcom)
 * Spanish (JHAM2005)
+* French (Primokorn)
