@@ -4,7 +4,7 @@
 <!-- Provide a public accessible link, where the translation can 
 be discussed and improved. (paid platforms are not allowed) -->
 ### Where are the strings to translate:
-http://frontflash-notification.oneskyapp.com/collaboration/project/142164
+http://ffn-localizations.oneskyapp.com/collaboration/project/142172
 
 ### Link(s) to download the app:
 http://play.google.com/store/apps/details?id=com.trendy.frontflashnotification
@@ -14,7 +14,7 @@ http://play.google.com/store/apps/details?id=com.trendy.frontflashnotification
 http://forum.xda-developers.com/showthread.php?t=3734332
 
 ### Number of strings:
-101
+100
 
 <!-- Provide an email address, your account on social networks...-->
 ### Contact me:
@@ -41,6 +41,8 @@ No
 * Italian
 * Polish
 * Spanish
+* Arabic (Egypt)
+* Czech
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
