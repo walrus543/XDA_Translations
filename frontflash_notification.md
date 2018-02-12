@@ -30,7 +30,6 @@ No
 
 <!-- Optional -->
 ### Which Languages are needed the most?
-* French
 * Portuguese (Brazil)
 * Russian
 * Slovak (Slovakia)
@@ -43,6 +42,7 @@ No
 * Spanish
 * Arabic (Egypt)
 * Czech
+* French
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
