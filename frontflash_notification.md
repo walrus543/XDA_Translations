@@ -30,7 +30,6 @@ No
 
 <!-- Optional -->
 ### Which Languages are needed the most?
-* Russian
 * Slovak (Slovakia)
 
 ### Languages already completed:
@@ -39,10 +38,12 @@ No
 * Italian
 * Polish
 * Spanish
-* Arabic (Egypt)
-* Czech
-* French
 * Portuguese (Brazil)
+* Arabic (Egypt)
+* French
+* Czech
+* Croatian
+* Russian
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -64,7 +65,9 @@ Completed languages:
 * Italian
 * Polish (emcom)
 * Spanish (JHAM2005)
-* French (Primokorn)
-* Arabic-Egypt (yshalsager)
-* Czech (novas78)
 * Portuguese-Brazil (Taivotat2)
+* Arabic-Egypt (yshalsager)
+* French (Primokorn)
+* Czech (novas78)
+* Croatian (dugi9991)
+* Russian (gaich)
