@@ -18,7 +18,7 @@ https://forum.xda-developers.com/android/apps-games/app-shoton-app-to-add-photo-
 
 <!-- Provide an email address, your account on social networks...-->
 ### Contact me:
-https://forum.xda-developers.com/member.php?u=5175590
+https://forum.xda-developers.com/member.php?u=5175590  
 http://www.yogeshdama.com/
 
 <!-- Tell us if you are the main developer, community manager, designer,...-->
