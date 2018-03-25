@@ -49,6 +49,7 @@ No.
 * Czech
 * Croatian
 * German
+* Romanian
 * Russian
 * Slovak
 * Spanish
@@ -68,10 +69,9 @@ Check with the Dev via PM.
 ## For XDA Translators ONLY
 Completed languages:
 <!-- Add your XDA username next to your language(s) -->
-* Arabic (yshalsager)
 * Czech (novas78)
 * Croatian (dugi9991)
-* German (noc.jfcbs)
+* German (supergrobi94, noc.jfcbs)
 * Russian (gaich)
 * Slovak (kubalav)
 * Spanish (Hrhigher)
