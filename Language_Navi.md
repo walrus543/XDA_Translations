@@ -26,12 +26,15 @@ Email address: tachibanagenerallabs@gmail.com
 * Chinese (Traditional)
 * Hindi
 * Spanish
-* Chinese (Simplified)
 * Turkish
 * Ukrainian
 * Japanese
 
 ### Languages already completed:
+* Arabic
+* Chinese (Simplified)
+* Czech
+* Slovak
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -44,3 +47,6 @@ Yes, all contributors will be credited on the "About" page.
 ## For XDA Translators ONLY
 Completed languages:
 <!-- Add your XDA username next to your language(s) -->
+* Arabic (yshalsager)
+* Czech (novas78)
+* Slovak (kubalav)
