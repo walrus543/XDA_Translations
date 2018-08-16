@@ -44,6 +44,7 @@ No
 * Czech
 * Croatian
 * Russian
+* Chinese (Simplified)
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -71,3 +72,4 @@ Completed languages:
 * Czech (novas78)
 * Croatian (dugi9991)
 * Russian (gaich)
+* Simplified Chinese (f0rb1d)

@@ -1,20 +1,26 @@
 <!-- Provide a public accessible link, where the translation can be discussed and improved. (paid platforms are not allowed) -->
-### Where are the strings to translate: https://crowdin.com/project/language-navi/
+### Where are the strings to translate: 
+https://crowdin.com/project/language-navi/
 
-### Link(s) to download the app: https://play.google.com/store/apps/details?id=com.tachibana.languagenavi
+### Link(s) to download the app: 
+https://play.google.com/store/apps/details?id=com.tachibana.languagenavi
 
 <!-- Optional -->
-### XDA Thread: https://forum.xda-developers.com/android/apps-games/app-language-navi-t3819587/
+### XDA Thread: 
+https://forum.xda-developers.com/android/apps-games/app-language-navi-t3819587/
 
 ### Number of strings: 141
 
 <!-- Provide an email address, your account on social networks...-->
 ### Contact me:
-XDA account: https://forum.xda-developers.com/member.php?u=9318420  
-Email address: tachibanagenerallabs@gmail.com
+XDA account: 
+https://forum.xda-developers.com/member.php?u=9318420  
+Email address: 
+tachibanagenerallabs@gmail.com
 
 <!-- Tell us if you are the main developer, community manager, designer,...-->
-### My job: Creator
+### My job: 
+Creator
 
 <!-- If you only want to receive translations for untranslated strings only -->
 ### Necessary to check the existing translations? (Yes/No): No
@@ -26,12 +32,13 @@ Email address: tachibanagenerallabs@gmail.com
 * Chinese (Traditional)
 * Hindi
 * Spanish
-* Chinese (Simplified)
 * Turkish
 * Ukrainian
 * Japanese
 
 ### Languages already completed:
+
+* Chinese (Simplified)
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -43,4 +50,7 @@ Yes, all contributors will be credited on the "About" page.
 
 ## For XDA Translators ONLY
 Completed languages:
+
+* f0rb1d (Simplified Chinese)
+
 <!-- Add your XDA username next to your language(s) -->
