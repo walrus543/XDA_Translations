@@ -37,6 +37,10 @@ Creator
 * Japanese
 
 ### Languages already completed:
+* Arabic
+* Chinese (Simplified)
+* Czech
+* Slovak
 
 * Chinese (Simplified)
 
@@ -54,3 +58,6 @@ Completed languages:
 * f0rb1d (Simplified Chinese)
 
 <!-- Add your XDA username next to your language(s) -->
+* Arabic (yshalsager)
+* Czech (novas78)
+* Slovak (kubalav)
