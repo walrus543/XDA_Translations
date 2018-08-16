@@ -32,7 +32,6 @@ Creator
 * Chinese (Traditional)
 * Hindi
 * Spanish
-* Turkish
 * Ukrainian
 * Japanese
 
@@ -40,9 +39,10 @@ Creator
 * Arabic
 * Chinese (Simplified)
 * Czech
+* German
 * Slovak
-
-* Chinese (Simplified)
+* Turkish
+* Vietnamese
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -54,10 +54,11 @@ Yes, all contributors will be credited on the "About" page.
 
 ## For XDA Translators ONLY
 Completed languages:
-
-* f0rb1d (Simplified Chinese)
-
 <!-- Add your XDA username next to your language(s) -->
 * Arabic (yshalsager)
+* Chinese (Simplified) (f0rb1d)
 * Czech (novas78)
+* German (Oswald Boelcke)
 * Slovak (kubalav)
+* Turkish (Fatih Fırıncı)
+* Vietnamese (tphg)
