@@ -9,7 +9,7 @@ https://play.google.com/store/apps/details?id=com.tachibana.languagenavi
 ### XDA Thread: 
 https://forum.xda-developers.com/android/apps-games/app-language-navi-t3819587/
 
-### Number of strings: 143
+### Number of strings: 157
 
 <!-- Provide an email address, your account on social networks...-->
 ### Contact me:
@@ -28,17 +28,17 @@ Creator
 <!-- Optional -->
 ### Which Languages are needed the most?
 * Portuguese (Brazil)
-* Chinese (Traditional)
 * Spanish
 * Ukrainian
-* Japanese
 
 ### Languages already completed:
 * Arabic
 * Chinese (Simplified)
+* Chinese (Traditional)
 * Czech
 * German
 * Hindi
+* Japanese
 * Lithuanian
 * Polish
 * Russian
@@ -61,6 +61,7 @@ Completed languages:
 * Chinese (Simplified) (f0rb1d)
 * Czech (novas78)
 * German (Oswald Boelcke)
+* Russian (gaich)
 * Slovak (kubalav)
 * Turkish (Fatih Fırıncı)
 * Vietnamese (tphg)
