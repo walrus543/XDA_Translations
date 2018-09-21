@@ -9,7 +9,7 @@ https://play.google.com/store/apps/details?id=com.tachibana.languagenavi
 ### XDA Thread: 
 https://forum.xda-developers.com/android/apps-games/app-language-navi-t3819587/
 
-### Number of strings: 157
+### Number of strings: 161
 
 <!-- Provide an email address, your account on social networks...-->
 ### Contact me:
