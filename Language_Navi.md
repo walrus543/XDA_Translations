@@ -27,7 +27,6 @@ Creator
 
 <!-- Optional -->
 ### Which Languages are needed the most?
-* Portuguese (Brazil)
 * Spanish
 * Ukrainian
 
@@ -41,6 +40,7 @@ Creator
 * Japanese
 * Lithuanian
 * Polish
+* Portuguese (Brazil)
 * Russian
 * Slovak
 * Turkish
@@ -61,6 +61,7 @@ Completed languages:
 * Chinese (Simplified) (f0rb1d)
 * Czech (novas78)
 * German (Oswald Boelcke)
+* Portuguese (Brazil) (justjr)
 * Russian (gaich)
 * Slovak (kubalav)
 * Turkish (Fatih Fırıncı)
