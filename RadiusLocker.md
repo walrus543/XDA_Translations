@@ -1,6 +1,6 @@
 <!-- Provide a public accessible link, where the translation can be discussed and improved. (paid platforms are not allowed) -->
 ### Where are the strings to translate:
-https://docs.google.com/spreadsheets/d/1fW6VKe1YHWQnAYIw3ICGloFBjhHBovSGJtgzbQRPD10/
+https://poeditor.com/join/project/UIsvRnmK1f
 
 ### Link(s) to download the app:
 https://play.google.com/store/apps/details?id=com.merrycachemiss.rl
@@ -33,12 +33,11 @@ In priority:
 *Spanish (Spain)
 *Italian
 *Spanish (Latin America)
-*Russian
 
 ### Languages already completed:
-*
-*
-*
+* Hindi
+* Simplified Chinese (unknown contributor! please contact me if you want to be credited in the app)
+* Russian
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -53,7 +52,7 @@ Yes -- email us, message on twitter, or on github. The app is free, with IAP to 
 ## For XDA Translators ONLY
 Completed languages:
 <!-- Add your XDA username next to your language(s) -->
-*
-*
+* Hindi (TheImpulson)
+* Russian (gaich)
 *
 *
