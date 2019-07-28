@@ -29,7 +29,6 @@ Yes, please double check anything marked as "FUZZY" in poeditor
 
 <!-- Optional -->
 ### Which Languages are needed the most?
-* Italian (is tentatively completed via Google Translate, just wanting some verification -- please see it in poeditor link)
 
 ### Languages already completed:
 * Hindi
@@ -39,6 +38,7 @@ Yes, please double check anything marked as "FUZZY" in poeditor
 * Czech
 * German
 * Spanish (Spain)
+* Italian
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -55,7 +55,7 @@ Completed languages:
 <!-- Add your XDA username next to your language(s) -->
 * Hindi: TheImpulson
 * Russian: gaich
-* Chinese (Simplified): f0rbid
+* Chinese (Simplified): f0rb1d
 * Czech: Lukas Novotny
 * Croatian: dugi9991
 * German: Oswald Boelcke
