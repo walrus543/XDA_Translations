@@ -4,6 +4,7 @@ https://poeditor.com/join/project/UIsvRnmK1f
 
 ### Link(s) to download the app:
 https://play.google.com/store/apps/details?id=com.merrycachemiss.rl
+
 https://www.radiuslocker.co/
 
 <!-- Optional -->
@@ -11,7 +12,7 @@ https://www.radiuslocker.co/
 https://forum.xda-developers.com/android/apps-games/app-radiuslocker-lock-phone-disable-t3777720
 
 ### Number of strings:
-71
+92 (roughly 1500 words)
 
 <!-- Provide an email address, your account on social networks...-->
 ### Contact me:
@@ -24,20 +25,20 @@ Sole developer
 
 <!-- If you only want to receive translations for untranslated strings only -->
 ### Necessary to check the existing translations? (Yes/No):
-Yes, please double check. To help save translators some time, I have some partial German translation completed after a bit of research from other websites for words they've used in the same context, but they could be incorrect -- I've made notes for them in bold red.
+Yes, please double check anything marked as "FUZZY" in poeditor
 
 <!-- Optional -->
 ### Which Languages are needed the most?
-In priority:
-*German
-*Spanish (Spain)
-*Italian
-*Spanish (Latin America)
 
 ### Languages already completed:
 * Hindi
-* Simplified Chinese (unknown contributor! please contact me if you want to be credited in the app)
+* Simplified Chinese
 * Russian
+* Croatian
+* Czech
+* German
+* Spanish (Spain)
+* Italian
 
 <!-- Credits are always appreciated -->
 ### Will translators be mentioned within the app?
@@ -45,14 +46,16 @@ Of course!
 
 <!-- Some developers offer redeem codes to thank translators and/or to help them to translate strings that are specific to PRO features. Please explain how to request one -->
 ### Redeem code for translators (Yes/No):
-Yes -- email us, message on twitter, or on github. The app is free, with IAP to activate extra features. All strings are still visible in the inactive parts when not paid, but we can supply a code if desired for the translation process. We'll just have to find out how to do it!
+Yes -- please email us or message on twitter. The app is free, with IAP to activate extra features. All strings are still visible in the inactive parts when not paid, but we can supply a code if desired for the translation process. We'll just have to find out how to do it!
 
 ***
 
 ## For XDA Translators ONLY
 Completed languages:
 <!-- Add your XDA username next to your language(s) -->
-* Hindi (TheImpulson)
-* Russian (gaich)
-*
-*
+* Hindi: TheImpulson
+* Russian: gaich
+* Chinese (Simplified): f0rb1d
+* Czech: Lukas Novotny
+* Croatian: dugi9991
+* German: Oswald Boelcke
